@@ -1,0 +1,60 @@
+[
+     {
+          "command_name":"Italian",
+          "players_numbers":10,
+          "trainer":"Hilly Whetson",
+          "captain":"Hewitt Duran"
+     },
+     {
+          "command_name":"Hindi",
+          "players_numbers":8,
+          "trainer":"Christos Finkle",
+          "captain":"Jorey Corness"
+     },
+     {
+          "command_name":"Macedonian",
+          "players_numbers":9,
+          "trainer":"Hildegaard Ewbank",
+          "captain":"Royce Wimpenny"},
+     {
+          "command_name":"Maltese",
+          "players_numbers":10,
+          "trainer":"Reynard Frammingham",
+          "captain":"Patti Pigot"},
+     {
+          "command_name":"Pashto",
+          "players_numbers":11,
+          "trainer":"Cristine Sprigings",
+          "captain":"Mychal Clappson"
+     },
+     {
+          "command_name":"Catalan",
+          "players_numbers":11,
+          "trainer":"Cindy Turk",
+          "captain":"Jilleen Hutchcraft"
+     },
+     {
+          "command_name":"Korean",
+          "players_numbers":7,
+          "trainer":"Nikki Brandon",
+          "captain":"Vail Stallibrass"
+     },
+     {
+          "command_name":"Irish Gaelic",
+          "players_numbers":8,
+          "trainer":"Sal Dhenin",
+          "captain":"Isabelita Haugeh"
+     },
+     {
+          "command_name":"Finnish",
+          "players_numbers":9,
+          "trainer":"Clea Chubb",
+          "captain":"Jennette Lope"
+     },
+     {
+          "command_name":"Macedonian",
+          "players_numbers":10,
+          "trainer":"Crysta Braganca",
+          "captain":"Dallas Klehyn"
+     }
+]
